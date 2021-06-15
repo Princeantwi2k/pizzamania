@@ -1,0 +1,46 @@
+.one {
+  background-color: lightblue;
+}
+
+.dede {
+  width: 100%;
+}
+.home {
+  background-color: #af2f2f;
+  border-color: none;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  background-image: cover;
+}
+
+.img2{
+  width: 80%;
+  height: 500px;
+}
+.pizza-types {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+a {
+  color:white;
+  
+  
+}
+.about-pizza {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.carousel-content {
+  height: 400px;
+}
+.pizza-types {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.name {
+  background-color: #af2f2f;
+  color: white;
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+}
